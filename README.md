@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @habeebmh
 - 👀 I’m interested in UI
 - 🌱 I’m currently learning how to better use Web Components
-- 📫 How to reach me: [habeeb.bio](habeeb.bio)
+- 📫 How to reach me: [habeeb.bio](https://habeeb.bio)
 
 <!---
 habeebmh/habeebmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
