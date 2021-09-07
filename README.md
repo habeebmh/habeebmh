@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @habeebmh
+- 👋 Hi, I’m Habeeb Hooshmand
 - 👀 I’m interested in UI
 - 🌱 I’m currently learning how to better use Web Components
 - 📫 How to reach me: [habeeb.bio](https://habeeb.bio)
